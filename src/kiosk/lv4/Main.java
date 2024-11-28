@@ -1,4 +1,4 @@
-package com.example.kiosk.lv4;
+package kiosk.lv4;
 
 public class Main {
     // Menu 객체 생성하면서 카테고리 이름 설정

@@ -1,4 +1,4 @@
-package com.example.kiosk.lv2;
+package kiosk.lv3;
 
 public class MenuItem {
 
@@ -16,4 +16,3 @@ public class MenuItem {
         this.description = description;
     }
 }
-

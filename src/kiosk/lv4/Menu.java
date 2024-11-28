@@ -1,6 +1,6 @@
-package com.example.kiosk.lv4;
+package kiosk.lv4;
 
-import com.example.kiosk.lv3.MenuItem;
+import kiosk.lv3.MenuItem;
 
 import java.util.ArrayList;
 import java.util.List;
